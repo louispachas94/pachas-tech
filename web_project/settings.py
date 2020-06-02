@@ -87,7 +87,7 @@ else:
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'pachastech',
         'USER': 'pachasuser',
-        'PASSWORD': 'Barrios.7.Altos',
+        'PASSWORD': 'Barrios.Altos.7',
         'HOST': 'localhost',
         'PORT': '',
     }
